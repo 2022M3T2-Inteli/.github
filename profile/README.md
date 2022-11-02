@@ -9,7 +9,7 @@ Um modelo preditivo que ajude a compreender a jornada dos colaboradores da empre
   - Link do repositório: https://github.com/2022M3T5-inteli/FireData
 
 - Grupo 2 - In & Out Devs - Turnover de funcionários:
-  - Link do repositório: https://github.com/2022M3T5-inteli/SmartHealth
+  - Link do repositório:
   
 - Grupo 3 - G3 Devs - Turnover de funcionários:
   - Link do repositório: https://github.com/2022M3T5-inteli/G3-Devs
