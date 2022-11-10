@@ -6,16 +6,16 @@ Um modelo preditivo que ajude a compreender a jornada dos colaboradores da empre
 ## 💻 Lógica para predição com inteligência artificial:
 
 - Grupo 1 - FireData - Turnover de funcionários:
-  - Link do repositório: https://github.com/2022M3T5-inteli/FireData
+  - Link do repositório: https://github.com/2022M3T2-inteli/FireData
 
 - Grupo 2 - In & Out Devs - Turnover de funcionários:
-  - Link do repositório:
+  - Link do repositório: https://github.com/2022M3T2-Inteli/In-Out-Devs
   
 - Grupo 3 - G3 Devs - Turnover de funcionários:
-  - Link do repositório: https://github.com/2022M3T5-inteli/G3-Devs
+  - Link do repositório: https://github.com/2022M3T2-inteli/G3-Devs
   
 - Grupo 4 - Firing Machine - Turnover de funcionários:
-  - Link do repositório: https://github.com/2022M3T5-inteli/Firing-Machine
+  - Link do repositório: https://github.com/2022M3T2-Inteli/Firing-Machine
   
 - Grupo 5 - MACHINE FIVE - Turnover de Funcionários:
-  - Link do repositório: https://github.com/2022M3T5-inteli/MACHINE-FIVE
+  - Link do repositório: https://github.com/2022M3T2-inteli/MACHINE-FIVE
