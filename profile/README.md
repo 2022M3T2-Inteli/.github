@@ -1,7 +1,12 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 2 - EveryMind
+## 🔍 O problema:
+Conhecer as variáveis mais relevantes e que impactam a experiência das pessoas colaboradoras, e que pode ocasionar ruptura no vínculo.
 
 ## 🎯 O objetivo:
 Um modelo preditivo que ajude a compreender a jornada dos colaboradores da empresa, criando uma melhor experiência e valorizando cada vez mais o talento de cada pessoa.
+
+## 🧩 O público-alvo:
+Pessoas colaboradoras da Everymind.
 
 ## 💻 Lógica para predição com inteligência artificial:
 
